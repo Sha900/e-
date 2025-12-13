@@ -1,0 +1,8 @@
+{
+  "name": "Copy of POSITONE e+",
+  "description": "A futuristic 3D holographic AI assistant powered by Gemini Live API. Features real-time voice interaction, dynamic 3D visualization, and specialized Vision Mode for deep conceptual analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
